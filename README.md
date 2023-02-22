@@ -1,4 +1,7 @@
-# SimpleCV
+# SimpleCV - 2023 Fellowship.ai Computer Vision Challenge
+
+Code Challenge submission for the 2023 Fellowship.ai Cohort 26 application.
+
 Apply a pre-trained ResNet50 model to the Flowers Dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 
 Some tutorials and links that helped me:
